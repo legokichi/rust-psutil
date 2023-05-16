@@ -10,7 +10,7 @@ description = "Process and system monitoring library"
 repository = "https://github.com/rust-psutil/rust-psutil"
 readme = "README.md"
 license = "MIT"
-edition = "2018"
+edition = "2021"
 
 [dependencies]
 cfg-if = "1.0.0"
